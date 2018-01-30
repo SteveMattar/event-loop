@@ -1,0 +1,24 @@
+{
+  "name": "event-loop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteveMattar/event-loop.git"
+  },
+  "keywords": [
+    "nodejs",
+    "event",
+    "loop"
+  ],
+  "author": "Steve Mattar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SteveMattar/event-loop/issues"
+  },
+  "homepage": "https://github.com/SteveMattar/event-loop#readme"
+}
